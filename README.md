@@ -17,4 +17,20 @@ Here are some ideas to get you started:
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 1; background: url('https://raw.githubusercontent.com/i-avalos/i-avalos/master/wallhaven-x6w3rv.png');]{x0000}$}
+\ce{
+$\unicode[goombafont; 
+color:red; 
+pointer-events: none; 
+z-index: -10; 
+position: fixed; 
+top: 0; 
+left: 0; 
+height: 100vh; 
+object-fit: cover; 
+background-size: cover; 
+width: 130vw; 
+opacity: 1; 
+background: url('https://raw.githubusercontent.com/i-avalos/i-avalos/master/wallhaven-x6w3rv.png') no-repeat center center fixed;
+background-size: cover;
+]{x0000}$
+}
