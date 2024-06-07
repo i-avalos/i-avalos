@@ -30,6 +30,6 @@ object-fit: cover;
 background-size: cover; 
 width: 130vw; 
 opacity: 1; 
-background: url('https://raw.githubusercontent.com/i-avalos/i-avalos/master/wallhaven-d66zvm.png') no-repeat center center fixed;
+background: url('https://raw.githubusercontent.com/i-avalos/i-avalos/master/wallh_inverse.png') no-repeat center center fixed;
 ]{x0000}$
 }
