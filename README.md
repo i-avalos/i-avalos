@@ -31,6 +31,6 @@ background-size: cover;
 width: 130vw; 
 opacity: 1; 
 background: url('https://raw.githubusercontent.com/i-avalos/i-avalos/master/wallhaven-d66zvm.png') no-repeat center center fixed;
-transform: scaleX(-1);
+transform: scaleX(-0.6);
 ]{x0000}$
 }
