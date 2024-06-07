@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/IPdotSetAF/NeoMatrix/master/images/preview3.gif');]{x0000}$}
+
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -15; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 100% auto; background-repeat: no-repeat; width: 100%; opacity: 0.5; background: url('https://github.com/i-avalos/i-avalos/blob/master/wallhaven-x6w3rv.png');]{x0000}$}
